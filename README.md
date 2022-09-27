@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/YTkh6D2gSqXI5t8ceN/giphy.gif?cid=790b76110bd0ee88f18e4ce48d887db70be662d6b304c473&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media4.giphy.com/media/YTkh6D2gSqXI5t8ceN/giphy.gif" width="100" autoplay=enable/>
 </div>
 
 <div id="badges" align="center">
@@ -15,17 +15,32 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<!--
-**gchiquetto/gchiquetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :woman_technologist: About Me :
 
-Here are some ideas to get you started:
+<p>My name is Gabriela, I'm a chemical engineer studying to become a Frontend developer. I love technology, games, board games, and books. I'm from Brazil, but at the moment living in the Netherlands.<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React and TypeScript
+- 👯 I’m looking to collaborate on Open Source projects which uses React or another frontend lib(I'm willing to learn new tools) that might use JavaScript or TypeScript
+- 📫 How to reach me: { :telephone_receiver: : +31 6 83 78 47 76, 	:envelope: : gabrielachiquetto@gmail.com }
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gchiquetto&theme=onedark&hide_border=true)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gchiquetto&layout=compact&hide_border=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
