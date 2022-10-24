@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 
-<p>My name is Gabriela, I'm a chemical engineer studying to become a Frontend developer. I love technology, games, board games, and books. I'm from Brazil, but at the moment living in the Netherlands.<p>
+<p>My name is Gabriela, I'm a chemical engineer studying to become a web developer. I love technology, games, board games, and books. I'm from Brazil, but at the moment living in the Netherlands.<p>
 
 - 🌱 I’m currently learning React and TypeScript
 - 👯 I’m looking to collaborate on Open Source projects which uses React or another frontend lib(I'm willing to learn new tools) that might use JavaScript or TypeScript
