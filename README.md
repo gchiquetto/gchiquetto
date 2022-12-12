@@ -1,7 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/YTkh6D2gSqXI5t8ceN/giphy.gif" width="100" autoplay=enable/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gabriela-chiquetto-policano-b6917533/">
