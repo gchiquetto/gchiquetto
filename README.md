@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/gabriela-chiquetto-policano-b6917533/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=gchiquetto&color=blueviolet&style=for-the-badge" alt="GitHub Profile Views Counter" />
 </div>
 
 <h1 align="center">
