@@ -13,4 +13,4 @@
 
 ### :woman_technologist: About Me :
 
-<p>My name is Gabriela, I'm front-end developer. I love technology, games, board games, and books. I'm from Brazil, but at the moment living in the Netherlands.<p>
+<p>Hello, I'm Gabriela, a passionate front-end developer with a deep affection for technology, gaming, board games, and books. Originally from Brazil, I now reside in the Netherlands, embracing new experiences and cultures.<p>
